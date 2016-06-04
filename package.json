@@ -1,0 +1,31 @@
+{
+  "name": "fantasy-dict",
+  "version": "1.0.0",
+  "description": "Fantasy-land compatible dictionary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm-run-all test:*",
+    "test:unit": "ava",
+    "test:lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwoudenberg/fantasy-dict.git"
+  },
+  "keywords": [
+    "fantasy-land"
+  ],
+  "author": "Jasper Woudenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwoudenberg/fantasy-dict/issues"
+  },
+  "homepage": "https://github.com/jwoudenberg/fantasy-dict#readme",
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "fantasy-eithers": "0.0.2",
+    "fantasy-identities": "0.0.1",
+    "npm-run-all": "^2.1.1",
+    "standard": "^7.1.2"
+  }
+}
