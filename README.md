@@ -1,4 +1,7 @@
 # fantasy-dict
+[![NPM version](http://img.shields.io/npm/v/fantasy-dict.svg?style=flat-square)](https://www.npmjs.com/package/fantasy-dict)
+[![Build status](http://img.shields.io/travis/jwoudenberg/fantasy-dict/master.svg?style=flat-square)](https://travis-ci.org/jwoudenberg/fantasy-dict)
+[![Dependencies](https://img.shields.io/david/jwoudenberg/fantasy-dict.svg?style=flat-square)](https://david-dm.org/jwoudenberg/fantasy-dict)
 
 A dictionary implementing the [fantasy-land](https://github.com/fantasyland/fantasy-land) Monoid, Functor, Foldable and Traversable specifications.
 
