@@ -6,7 +6,8 @@
   "scripts": {
     "test": "npm-run-all test:*",
     "test:unit": "ava",
-    "test:lint": "standard"
+    "test:lint": "standard",
+    "fix": "standard --fix"
   },
   "repository": {
     "type": "git",
@@ -23,8 +24,10 @@
   "homepage": "https://github.com/jwoudenberg/fantasy-dict#readme",
   "devDependencies": {
     "ava": "^0.16.0",
+    "fantasy-combinators": "0.0.1",
     "fantasy-eithers": "0.0.2",
     "fantasy-identities": "0.0.1",
+    "fantasy-options": "0.0.1",
     "npm-run-all": "^2.1.1",
     "standard": "^7.1.2",
     "xyz": "^1.0.0"
