@@ -24,6 +24,7 @@
   "homepage": "https://github.com/jwoudenberg/fantasy-dict#readme",
   "devDependencies": {
     "ava": "^0.16.0",
+    "fantasy-combinators": "0.0.1",
     "fantasy-eithers": "0.0.2",
     "fantasy-identities": "0.0.1",
     "fantasy-options": "0.0.1",
