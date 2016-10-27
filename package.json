@@ -27,7 +27,7 @@
     "fantasy-identities": "0.0.1",
     "npm-run-all": "^3.0.0",
     "standard": "^8.0.0",
-    "xyz": "^1.0.0"
+    "xyz": "^1.1.0"
   },
   "dependencies": {
     "daggy": "0.0.1"
