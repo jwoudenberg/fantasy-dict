@@ -25,7 +25,7 @@
     "ava": "^0.17.0",
     "fantasy-eithers": "0.0.2",
     "fantasy-identities": "0.0.1",
-    "npm-run-all": "^3.0.0",
+    "npm-run-all": "^4.0.1",
     "standard": "^8.0.0",
     "xyz": "^2.0.0"
   },
